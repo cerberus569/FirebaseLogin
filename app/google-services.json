@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "203589184502",
-    "project_id": "transporte-pesado-be01c",
-    "storage_bucket": "transporte-pesado-be01c.appspot.com"
+    "project_number": "91614877165",
+    "project_id": "transporte-pesado-f3342",
+    "storage_bucket": "transporte-pesado-f3342.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:203589184502:android:308ba447ad84c96d3835d7",
+        "mobilesdk_app_id": "1:91614877165:android:bb722b51e34f29a9c343e4",
         "android_client_info": {
           "package_name": "com.aristidevs.nuwelogin"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDdTRX917sgjipomesB0PVB5w2Lt-pSC-g"
+          "current_key": "AIzaSyC_ZeXmG2aL8n-BuP0Jv2oLATvWW41VlzU"
         }
       ],
       "services": {
