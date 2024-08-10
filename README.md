@@ -74,10 +74,9 @@ También hay una animación implementada con *lottie*.
 - Pero... ¿Hay vistas similares, no?
   - Sí, es por ello que las vistas que son iguales se han abstraido para reutilizarlas en todas partes.
   
-## COLABORA.
+## COSAS NUEVAS AGREGADAS 
+- SE AGREGO UN NUEVO JSON CON MI PROPIA BASE DE DATOS
+- SE CAMBIARON LOS COLORES PRIMARIOS A UNA CONVINACION DE AZULES Y YA NO VERDES
+- SE ACTUALIZO EL SDK A 34
+- TODO ESTO SE PUEDE VER AL INSTALAR LA APP EN EL EMULADOR DE ANDROID STUDIO
 
-Este proyecto es totalmente GRATUITO por lo que puedes aportar tu grano de arena de múltiples formas.
-
-- Dale a FAV al proyecto (Star)
-- Sígueme en mis [redes sociales](https://aristi.dev)
-- Nomíname a [GITHUB STAR](https://stars.github.com/nominate/)
