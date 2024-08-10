@@ -80,3 +80,7 @@ También hay una animación implementada con *lottie*.
 - SE ACTUALIZO EL SDK A 34
 - TODO ESTO SE PUEDE VER AL INSTALAR LA APP EN EL EMULADOR DE ANDROID STUDIO
 
+<p align="center">
+<img align="center" width="300" alt="portfolio_view" src="./docs/blueregistroazul.png">
+</p>
+
